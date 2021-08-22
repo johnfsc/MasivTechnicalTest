@@ -1,0 +1,15 @@
+C:\Users\Desktop\source\repos\TechnicalTestAPI\TechnicalTestAPI.Data\bin\Debug\net5.0\TechnicalTestAPI.Data.deps.json
+C:\Users\Desktop\source\repos\TechnicalTestAPI\TechnicalTestAPI.Data\bin\Debug\net5.0\TechnicalTestAPI.Data.dll
+C:\Users\Desktop\source\repos\TechnicalTestAPI\TechnicalTestAPI.Data\bin\Debug\net5.0\ref\TechnicalTestAPI.Data.dll
+C:\Users\Desktop\source\repos\TechnicalTestAPI\TechnicalTestAPI.Data\bin\Debug\net5.0\TechnicalTestAPI.Data.pdb
+C:\Users\Desktop\source\repos\TechnicalTestAPI\TechnicalTestAPI.Data\bin\Debug\net5.0\TechnicalTestAPI.Common.dll
+C:\Users\Desktop\source\repos\TechnicalTestAPI\TechnicalTestAPI.Data\bin\Debug\net5.0\TechnicalTestAPI.Common.pdb
+C:\Users\Desktop\source\repos\TechnicalTestAPI\TechnicalTestAPI.Data\obj\Debug\net5.0\TechnicalTestAPI.Data.csproj.AssemblyReference.cache
+C:\Users\Desktop\source\repos\TechnicalTestAPI\TechnicalTestAPI.Data\obj\Debug\net5.0\TechnicalTestAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\source\repos\TechnicalTestAPI\TechnicalTestAPI.Data\obj\Debug\net5.0\TechnicalTestAPI.Data.AssemblyInfoInputs.cache
+C:\Users\Desktop\source\repos\TechnicalTestAPI\TechnicalTestAPI.Data\obj\Debug\net5.0\TechnicalTestAPI.Data.AssemblyInfo.cs
+C:\Users\Desktop\source\repos\TechnicalTestAPI\TechnicalTestAPI.Data\obj\Debug\net5.0\TechnicalTestAPI.Data.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\source\repos\TechnicalTestAPI\TechnicalTestAPI.Data\obj\Debug\net5.0\TechnicalTestAPI.Data.dll
+C:\Users\Desktop\source\repos\TechnicalTestAPI\TechnicalTestAPI.Data\obj\Debug\net5.0\ref\TechnicalTestAPI.Data.dll
+C:\Users\Desktop\source\repos\TechnicalTestAPI\TechnicalTestAPI.Data\obj\Debug\net5.0\TechnicalTestAPI.Data.pdb
+C:\Users\Desktop\source\repos\TechnicalTestAPI\TechnicalTestAPI.Data\obj\Debug\net5.0\TechnicalTestAPI.Data.csproj.CopyComplete

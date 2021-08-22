@@ -1,0 +1,15 @@
+C:\Users\Desktop\source\repos\TechnicalTestAPI\TechnicalTest.DTO\bin\Debug\net5.0\TechnicalTest.DTO.deps.json
+C:\Users\Desktop\source\repos\TechnicalTestAPI\TechnicalTest.DTO\bin\Debug\net5.0\TechnicalTest.DTO.dll
+C:\Users\Desktop\source\repos\TechnicalTestAPI\TechnicalTest.DTO\bin\Debug\net5.0\ref\TechnicalTest.DTO.dll
+C:\Users\Desktop\source\repos\TechnicalTestAPI\TechnicalTest.DTO\bin\Debug\net5.0\TechnicalTest.DTO.pdb
+C:\Users\Desktop\source\repos\TechnicalTestAPI\TechnicalTest.DTO\bin\Debug\net5.0\TechnicalTestAPI.Common.dll
+C:\Users\Desktop\source\repos\TechnicalTestAPI\TechnicalTest.DTO\bin\Debug\net5.0\TechnicalTestAPI.Common.pdb
+C:\Users\Desktop\source\repos\TechnicalTestAPI\TechnicalTest.DTO\obj\Debug\net5.0\TechnicalTest.DTO.csproj.AssemblyReference.cache
+C:\Users\Desktop\source\repos\TechnicalTestAPI\TechnicalTest.DTO\obj\Debug\net5.0\TechnicalTest.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\source\repos\TechnicalTestAPI\TechnicalTest.DTO\obj\Debug\net5.0\TechnicalTest.DTO.AssemblyInfoInputs.cache
+C:\Users\Desktop\source\repos\TechnicalTestAPI\TechnicalTest.DTO\obj\Debug\net5.0\TechnicalTest.DTO.AssemblyInfo.cs
+C:\Users\Desktop\source\repos\TechnicalTestAPI\TechnicalTest.DTO\obj\Debug\net5.0\TechnicalTest.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\source\repos\TechnicalTestAPI\TechnicalTest.DTO\obj\Debug\net5.0\TechnicalTest.DTO.csproj.CopyComplete
+C:\Users\Desktop\source\repos\TechnicalTestAPI\TechnicalTest.DTO\obj\Debug\net5.0\TechnicalTest.DTO.dll
+C:\Users\Desktop\source\repos\TechnicalTestAPI\TechnicalTest.DTO\obj\Debug\net5.0\ref\TechnicalTest.DTO.dll
+C:\Users\Desktop\source\repos\TechnicalTestAPI\TechnicalTest.DTO\obj\Debug\net5.0\TechnicalTest.DTO.pdb
